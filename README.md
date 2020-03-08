@@ -1,6 +1,8 @@
 # cupertinoappsample
 
-A new Flutter application.
+A cupertino app sample in dart.
+
+![alt text](https://i.imgur.com/pfrd5sk.png)
 
 ## Getting Started
 
